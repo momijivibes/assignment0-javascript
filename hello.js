@@ -3,4 +3,7 @@ function hello() {
 	return "Hello world!";
 }
  
-module.exports = hello;
+
+
+
+console.log(1 + 5 % 3);
